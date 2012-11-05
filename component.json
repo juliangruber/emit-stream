@@ -1,0 +1,24 @@
+{
+    "name" : "emit-stream",
+    "version" : "0.1.0",
+    "repo" : "juliangruber/emit-stream",
+    "description" : "turn event emitters into streams and streams into event emitters",
+    "scripts" : ["index.js"],
+    "dependencies" : {
+        "juliangruber/through" : "1.1.0",
+        "juliangruber/events" : "0.0.1"
+    },
+    "keywords" : [
+        "emit",
+        "event",
+        "emitter",
+        "EventEmitter",
+        "stream"
+    ],
+    "author" : {
+        "name" : "James Halliday",
+        "email" : "mail@substack.net",
+        "url" : "http://substack.net"
+    },
+    "license" : "MIT"
+}
